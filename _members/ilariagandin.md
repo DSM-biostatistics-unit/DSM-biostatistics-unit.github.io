@@ -6,7 +6,7 @@ description: Assistant Professor
 affiliation: University of Trieste
 links:
   email: igandin@units.it
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0003-3196-2491
 ---
 
 ## Research
