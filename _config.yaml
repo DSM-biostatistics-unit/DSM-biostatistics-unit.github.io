@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: DSM Biostatistics Unit
+title: DSM-biostatistics-unit
 # subtitle: University of Trieste
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+description: An engaging 1-3 sentence description of your lab.
 header: images/gaussiana_DSM_blu.jpeg
 footer: images/gaussiana_DSM_blu.jpeg
 proofer: false
