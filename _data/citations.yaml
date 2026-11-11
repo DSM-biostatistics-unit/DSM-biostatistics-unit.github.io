@@ -1,282 +1,203 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1002/ejhf.3780
+  title: 'Clustering in Dilated Cardiomyopathy at Initial Evaluation: An Effective
+    Tool for Clinical Stratification'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
-  authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Ilaria Gandin
+  - Maria Perotto
+  - Alessia Paldino
+  - Giovanni Baj
+  - Denise Zaffalon
+  - Andrea Pezzato
+  - Cinzia Crescenzi
+  - Fabiana Romeo
+  - Annamaria Martino
+  - Francesca Fanisio
+  - Federica Toto
+  - Maddalena Rossi
+  - Marta Gigli
+  - Matteo Dal Ferro
+  - "Leonardo Cal\xF2"
+  - Gianfranco Sinagra
+  - Marco Merlo
+  publisher: European Journal of Heart Failure
+  date: '2025-08-15'
+  link: https://doi.org/hckhqf
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: doi:10.1016/j.jacadv.2026.103066
+  title: Arrhythmic Risk in Carriers of Predicted Deleterious Rare Variants in Dilated
+    and Arrhythmogenic Cardiomyopathy Genes
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Ilaria Gandin
+  - Andrea Mario Vergani
+  - Michela Carlotta Massi
+  - Alessia Paldino
+  - Martina Setti
+  - Maria Perotto
+  - Marco Merlo
+  - Gianfranco Sinagra
+  - Giulia Barbati
+  - Emanuele Di Angelantonio
+  - Francesca Ieva
+  - Matteo Dal Ferro
+  publisher: 'JACC: Advances'
+  date: '2026-08-01'
+  link: https://doi.org/hckhqg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1371/journal.pone.0281878
+  title: 'Deep-learning-based prognostic modeling for incident heart failure in patients
+    with diabetes using electronic health records: A retrospective cohort study'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Ilaria Gandin
+  - Sebastiano Saccani
+  - Andrea Coser
+  - Arjuna Scagnetto
+  - Chiara Cappelletto
+  - Riccardo Candido
+  - Giulia Barbati
+  - Andrea Di Lenarda
+  publisher: PLOS ONE
+  date: '2023-02-21'
+  link: https://doi.org/hckhp6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jacc.2022.08.804
+  title: Prognostic Prediction of Genotype vs Phenotype in Genetic Cardiomyopathies
+  authors:
+  - Alessia Paldino
+  - Matteo Dal Ferro
+  - Davide Stolfo
+  - Ilaria Gandin
+  - Kristen Medo
+  - Sharon Graw
+  - Marta Gigli
+  - Giulia Gagno
+  - Denise Zaffalon
+  - Matteo Castrichini
+  - "Marco Mas\xE8"
+  - "Antonio Cannat\xE0"
+  - Francesca Brun
+  - Garrett Storm
+  - Giovanni Maria Severini
+  - Stefania Lenarduzzi
+  - Giorgia Girotto
+  - Paolo Gasparini
+  - Francesca Bortolotti
+  - Mauro Giacca
+  - Serena Zacchigna
+  - Marco Merlo
+  - Matthew R.G. Taylor
+  - Luisa Mestroni
+  - Gianfranco Sinagra
+  publisher: Journal of the American College of Cardiology
+  date: '2022-11-01'
+  link: https://doi.org/g8q65v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12874-023-01989-3
+  title: Comparison of discrimination and calibration performance of ECG-based machine
+    learning models for prediction of new-onset atrial fibrillation
+  authors:
+  - Giovanni Baj
+  - Ilaria Gandin
+  - Arjuna Scagnetto
+  - Luca Bortolussi
+  - Chiara Cappelletto
+  - Andrea Di Lenarda
+  - Giulia Barbati
+  publisher: BMC Medical Research Methodology
+  date: '2023-07-22'
+  link: https://doi.org/hckhqn
+  plugin: sources.py
+  file: sources.yaml
+
+- id: doi:10.1016/j.ajogmf.2025.101862
+  title: 'Assessing adherence to TRIPOD+ AI guidelines in machine learning models
+    for predicting small for gestational age and fetal growth restriction: a systematic
+    review'
+  authors:
+  - Giulia Zamagni
+  - Camilla Fregona
+  - Moira Barbieri
+  - Maria Sole Scalia
+  - Lorenzo Monasta
+  - Christoph Lees
+  - Tamara Stampalija
+  - Giulia Barbati
+  publisher: American Journal of Obstetrics & Gynecology MFM
+  date: '2025-11-28'
+  link: https://doi.org/10.1016/j.ajogmf.2025.101862
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/bimj.70043
+  title: Wavelet-Mixed Landmark Survival Models for the Effect of Short-Term Changes
+    of Potassium in Heart Failure Patients
+  authors:
+  - Caterina Gregorio
+  - Giulia Barbati
+  - Arjuna Scagnetto
+  - Andrea di Lenarda
+  - Francesca Ieva
+  publisher: Biometrical Journal
+  date: '2025-04-01'
+  link: https://doi.org/10.1002/bimj.70043
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0309470
+  title: 'Effectiveness of PCSK9 inhibitors: A Target Trial Emulation framework based
+    on Real-World Electronic Health Records'
+  authors:
+  - Giulia Barbati
+  - Caterina Gregorio
+  - Arjuna Scagnetto
+  - Carla Indennidate
+  - Chiara Cappelletto
+  - Andrea Di Lenarda
+  publisher: PLoS One
+  date: '2024-08-22'
+  link: https://doi.org/10.1371/journal.pone.0309470
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jval.2024.03.008
+  title: 'Flexible approaches based on multistate models and microsimulation to perform
+    real-world cost-effectiveness analyses: an application to proprotein convertase
+    subtilisin-kexin type 9 inhibitors'
+  authors:
+  - Caterina Gregorio
+  - Federico Rea
+  - Francesca Ieva
+  - Arjuna Scagnetto
+  - Carla Indennidate
+  - Chiara Cappelletto
+  - Andrea Di Lenarda
+  - Giulia Barbati
+  publisher: Value in Health
+  date: '2024-07-01'
+  link: https://doi.org/10.1016/j.jval.2024.03.008
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.54103/2282-0930/22227
+  title: Study design and research protocol for diagnostic or prognostic studies in
+    the age of artificial intelligence. A biostatistician’s perspective
+  authors:
+  - Giulia Barbati
+  - Patrizio Pasqualetti
+  - Domenica Matranga
+  - Lorenza Scotti
+  - Matteo Franchi
+  - Vittorio Simeon
+  - Simona Signoriello
+  - Ilaria Gandin
+  - Daniela Pacella
+  - Annamaria Porreca
+  - Danila Azzolina
+  - Paola Berchialla
+  - Simona Villani
+  publisher: Epidemiology, Biostatistics and Public Health
+  date: '2024-01-01'
+  link: https://doi.org/10.54103/2282-0930/22227
   plugin: sources.py
   file: sources.yaml

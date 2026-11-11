@@ -1,45 +1,41 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
+title: DSM Biostatistics Unit
+# subtitle: University of Trieste
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/gaussiana_DSM_blu.jpeg
+footer: images/gaussiana_DSM_blu.jpeg
 proofer: false
 
 # site social media and other links
-links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+#links:
+#  github: your-lab
 
 ### jekyll settings
 
 # front matter defaults
 defaults:
-  # all markdown files
-  - scope:
-      path: ""
-    values:
-      layout: default
-  # markdown files in /_members
   - scope:
       type: "members"
     values:
       layout: member
-  # markdown files in /_posts
+  - scope:
+      type: "collaborators"
+    values:
+      layout: member
+  - scope:
+      path: ""
+    values:
+      layout: default
   - scope:
       type: "posts"
     values:
       layout: post
 
 collections:
-  # generate page for each member
   members:
     output: true
-  # generate page for each post
+  collaborators:
+    output: false
   posts:
     output: true
 
@@ -71,6 +67,8 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+  - .venv
+  - vendor
 
 # configure jekyll spaceship
 jekyll-spaceship:
