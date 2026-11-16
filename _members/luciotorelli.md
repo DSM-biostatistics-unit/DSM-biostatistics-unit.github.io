@@ -1,6 +1,6 @@
 ---
 name: Lucio Torelli 
-image: images/photo.jpg
+image: images/torelli.jpeg
 role: member
 description: Associate Professor
 affiliation: University of Trieste
@@ -8,7 +8,10 @@ links:
   email: torelli@units.it
 ---
 
-Description
+## Description
+
+In addition to my various collaborations with physician colleagues from different hospital and university clinical units, I serve on the Statistics Committee of the FIL (Fondazione Italiana Linfomi, the Italian Lymphoma Foundation) and as the expert biostatistician member of the Animal Welfare Body (OPBA) of the University of Trieste. I also collaborate with the Clinical Operating Unit of Dentistry and Stomatology.
+
 
 ## Publications
 
