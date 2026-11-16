@@ -211,19 +211,20 @@
   - Matteo Biasotto
   - Katia Rupel
   - Giulia Ottaviani
-  journal: Oral Diseases
-  year: 2026
-  volume: 32
-  issue: 7
-  pages: 1854-1859
+  publisher: Oral Diseases
+  date: '2026-01-01'
+  link: https://doi.org/10.1111/odi.70253
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.13137/2039-8646/37280
-  title: "L’insegnamento della Statistica in ambito multidisciplinare - Parte seconda: Statistica e incertezza"
+  title: 'L’insegnamento della Statistica in ambito multidisciplinare - Parte seconda: Statistica e incertezza'
   authors:
   - Lucio Torelli
-  journal: QuaderniCIRD
-  year: 2025
-  volume: 30
-  pages: 48-61
+  publisher: QuaderniCIRD
+  date: '2025-01-01'
+  link: https://doi.org/10.13137/2039-8646/37280
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3390/jcm14175950
   title: 'A Novel Scoring System for the Administration of an IgM- and IgA-Enriched Intravenous Immunoglobulin Preparation: The SORRISO Score'
   authors:
@@ -244,21 +245,22 @@
   - Irene Longo
   - Roberto Dattola
   - Giorgio Berlot
-  journal: Journal of Clinical Medicine
-  year: 2025
-  volume: 14
-  issue: 17
-  article-number: 5950
+  publisher: Journal of Clinical Medicine
+  date: '2025-01-01'
+  link: https://doi.org/10.3390/jcm14175950
+  plugin: sources.py
+  file: sources.yaml
 - id: TODO
   title: Molte statistiche ma poca Statistica
   authors:
   - Lucio Torelli
-  book: Cura e reciprocità - Molti saperi per un contributo dialogico sulla reciprocità come nuovo paradigma di cura
-  book-volume: II
   publisher: Il Mulino
-  year: 2024
+  date: '2024-01-01'
+  link: TODO
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3389/fonc.2023.1133348
-  title: 'Serological and cellular response to mRNA-SARS-CoV2 vaccine in patients with hematological lymphoid malignancies: results of the study "Cervax"'
+  title: 'Serological and cellular response to mRNA-SARS-CoV2 vaccine in patients with hematological lymphoid malignancies: Results of the study "Cervax"'
   authors:
   - Sara Mohamed
   - Elisa Lucchini
@@ -276,8 +278,9 @@
   - Emilia Elzbieta Florea
   - Lucio Torelli
   - Francesco Zaja
-  journal: Frontiers in Oncology
-  year: 2023
-  volume: 13
-  article-number: 1133348
+  publisher: Frontiers in Oncology
+  date: '2023-01-01'
+  link: https://doi.org/10.3389/fonc.2023.1133348
+  plugin: sources.py
+  file: sources.yaml
   
