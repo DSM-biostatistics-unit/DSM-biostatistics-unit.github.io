@@ -6,7 +6,7 @@ description: Research collaborator
 affiliation: ASUGI
 links:
   email: erik@de-luca.it
-  home-page: erikdeluca.it
+  home-page: https://www.erikdeluca.it/
   orcid: 0009-0009-8259-7974
   github: erikdeluca
 ---

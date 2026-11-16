@@ -1,6 +1,6 @@
 ---
 name: Paolo Dalena
-image: images/photo.jpg
+image: images/dalena.jpg
 role: collaborator
 description: PhD student
 affiliation: IRCSS Burlo Garofolo
