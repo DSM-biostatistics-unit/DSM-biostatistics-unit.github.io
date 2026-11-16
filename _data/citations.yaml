@@ -201,11 +201,12 @@
   link: https://doi.org/10.54103/2282-0930/22227
   plugin: sources.py
   file: sources.yaml
-- id: doi:TODO
+- id: doi:10.1111/odi.70253
   title: A Retrospective Analysis of the Diagnostic Accuracy in Diagnosing OPMD and Benign Oral Lesions
   authors:
-  - A. G. Pedroso
-  - L. Torelli
+  - Griselda Pedroso Acosta
+  - Lucio Torelli
+  - Theodora Magdalena Bogdan Preda
   - Roberto Di Lenarda
   - Matteo Biasotto
   - Katia Rupel
@@ -214,39 +215,69 @@
   year: 2026
   volume: 32
   issue: 7
-- id: doi:TODO
-  title: "L\u2019insegnamento della Statistica in ambito multidisciplinare - Parte seconda: Statistica e incertezza"
+  pages: 1854-1859
+- id: doi:10.13137/2039-8646/37280
+  title: "L’insegnamento della Statistica in ambito multidisciplinare - Parte seconda: Statistica e incertezza"
   authors:
-  - L. Torelli
-  journal: Quaderni CIRD
+  - Lucio Torelli
+  journal: QuaderniCIRD
   year: 2025
   volume: 30
-- id: doi:TODO
+  pages: 48-61
+- id: doi:10.3390/jcm14175950
   title: 'A Novel Scoring System for the Administration of an IgM- and IgA-Enriched Intravenous Immunoglobulin Preparation: The SORRISO Score'
   authors:
-  - M. Bixio
-  - L. Torelli
-  - A. Scamperle
-  - G. Berlot
+  - Mattia Bixio
+  - Lucio Torelli
+  - Alice Scamperle
+  - Giada Quarantotto
+  - Silvia Zanchi
+  - Silvia Baronio
+  - Lucia Mirabella
+  - Alessandro Conti
+  - Francesco Forfori
+  - Alberto Noto
+  - Valeria Bonato
+  - Andrea Cortegiani
+  - Eugenia Botter
+  - Antonino Chillemi
+  - Irene Longo
+  - Roberto Dattola
+  - Giorgio Berlot
   journal: Journal of Clinical Medicine
   year: 2025
   volume: 14
   issue: 17
-- id: doi:TODO
+  article-number: 5950
+- id: TODO
   title: Molte statistiche ma poca Statistica
   authors:
-  - L. Torelli
+  - Lucio Torelli
   book: Cura e reciprocità - Molti saperi per un contributo dialogico sulla reciprocità come nuovo paradigma di cura
+  book-volume: II
   publisher: Il Mulino
   year: 2024
-- id: doi:TODO
+- id: doi:10.3389/fonc.2023.1133348
   title: 'Serological and cellular response to mRNA-SARS-CoV2 vaccine in patients with hematological lymphoid malignancies: results of the study "Cervax"'
   authors:
-  - S. Mohamed
-  - E. Lucchini
-  - L. Torelli
-  - F. Zaja
+  - Sara Mohamed
+  - Elisa Lucchini
+  - Francesca Sirianni
+  - Marika Porrazzo
+  - Laura Ballotta
+  - Mario Ballerini
+  - Giovanni Maria De Sabbata
+  - Eleonora De Bellis
+  - Ilaria Cappuccio
+  - Marilena Granzotto
+  - Barbara Toffoletto
+  - Ilaria Fortunati
+  - Anna Russignan
+  - Emilia Elzbieta Florea
+  - Lucio Torelli
+  - Francesco Zaja
   journal: Frontiers in Oncology
   year: 2023
   volume: 13
+  article-number: 1133348
   
